@@ -12,13 +12,13 @@ normal text **bold text** *italicized text* ***bold and italicized text***
     - [Medium title](#Medium-title)
         - [Small title](#Small-title)
 ### Table
-| First row is bolded    | hello |
+| First row is bolded and centered   | hello |
 |------------------------|-------|
 | Charlie Brown, Linus   | hi    |
 | Charlie Brown, Linus   | hi    |
 |                        |       |
 | empty row above this   | hi    |
-### Another table with custom column widths (20%, 80%)
+### Another table with custom column widths (20%, 80%) and image that spans 2 columns
 <table>
 <colgroup>
 <col style="width: 20%" />
@@ -26,9 +26,8 @@ normal text **bold text** *italicized text* ***bold and italicized text***
 </colgroup>
 <thead>
 <tr class="header">
-Whatever is inside here is the header and will take the entire row hello hello
-<th>hi</th>
-<th>hi</th>
+<th colspan="2"><p><img src="/set13_diamond.png"
+style="width:5in;height:2in" /></p></th>
 </tr>
 </thead>
 <tbody>
@@ -44,3 +43,4 @@ Whatever is inside here is the header and will take the entire row hello hello
 </tr>
 </tbody>
 </table>
+
