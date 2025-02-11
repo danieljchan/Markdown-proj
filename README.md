@@ -1,7 +1,7 @@
 # Markdown-proj
 # Big title
-- List item 1
-- List item 2
+- List item 1 🈹
+- List item 2 🅱️
 - List item 3
 ## Medium title
 link: https://tactics.tools/
@@ -27,16 +27,16 @@ normal text **bold text** *italicized text* ***bold and italicized text***
 <thead>
 <tr class="header">
 <th colspan="2"><p><img src="set13_diamond.PNG"
-style="width:5in;height:2in" /></p></th>
+style="width:5in;height:3in" /></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>First row</td>
-<td>Hello hi hi</td>
+<td>width 5 in, height 3 in</td>
+<td>The image above has custom dimensions</td>
 </tr>
 <tr class="even">
-<td><strong>Another row with bold</strong></td>
+<td><strong>Note that the rows alternate in shade</strong></td>
 <td><ul>
 <li><p><a href="https://tactics.tools/">Link with custom text</p></li>
 </ul></td>
