@@ -26,7 +26,7 @@ normal text **bold text** *italicized text* ***bold and italicized text***
 </colgroup>
 <thead>
 <tr class="header">
-<th colspan="2"><p><img src="set13_diamond.png"
+<th colspan="2"><p><img src="set13_diamond.PNG"
 style="width:5in;height:2in" /></p></th>
 </tr>
 </thead>
